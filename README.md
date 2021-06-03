@@ -12,6 +12,6 @@
 ![alt text](https://user-images.githubusercontent.com/69512046/96631476-60c07080-12e4-11eb-96e3-ffea04b2769b.jpg)
 ## [Link to Project](https://github.com/miguelrizzog96/Appointment_NoShow_classifier)
 ## Unit conversion app
-- ### Overview : Developed an app using python, that requests data from google and outputs a conversion equivalent given the user's input. Works, with physical units, currency and cryptocurrency.
+- ### Overview : Developed an app using python, that requests data from google and outputs a conversion equivalent given the user's input. Works with physical units, currency and cryptocurrency.
 ![alt text](https://user-images.githubusercontent.com/69512046/99093977-94bc4800-25a9-11eb-84ab-df4a47409014.JPG)
 ## [Link to Project](https://github.com/miguelrizzog96/Unit_Converter)
