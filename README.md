@@ -8,7 +8,7 @@
 ![alt text](https://user-images.githubusercontent.com/69512046/94444662-8c808880-0174-11eb-8706-e05c9b4b7eed.JPG)
 ## [Link to Project](https://github.com/miguelrizzog96/Queue_Simulation_Python)
 ## Predicting medical appointments no-show
-- ### Overview: 
+- ### Overview: Created a tool that estimates whether a patient will show or not at a scheduled medical appointment (Accuracy=0.75%) to give a better understanding of why the patients would miss an appointment and provide information to clinical facilities for improving efficiency and productivity.
 ![alt text](https://user-images.githubusercontent.com/69512046/96631476-60c07080-12e4-11eb-96e3-ffea04b2769b.jpg)
 ## [Link to Project](https://github.com/miguelrizzog96/Appointment_NoShow_classifier)
 ## Unit conversion app
