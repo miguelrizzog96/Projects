@@ -1,7 +1,7 @@
 # Projects
 ## Predictive Modeling of car's fuel economy
 - #### Overview: Developed a statistically significant regression model that predicts a car's fuel economy (in mpg) given a car's weight, with a MAE of 3.3 miles per gallon.
-![alt text](image.jpg)
+![alt text](https://github.com/miguelrizzog96/Regression_Predictive_Model/blob/main/regression.png)
 ### [Link to Project](https://github.com/miguelrizzog96/Regression_Predictive_Model)
 ## Simulation of a Queuing system using Python
 - #### Overview :  Developed a simulation model that allows the optimization of a given queuing system (i.e, a car wash line, a fuel station, parking lot, etc). Providing decision support about scheduling staffing and queue system design given a demand and service rate.
