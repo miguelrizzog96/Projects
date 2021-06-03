@@ -10,7 +10,7 @@
 ## Predicting medical appointments no-show
 - overview
 ![alt text](image.jpg)
-[Link to Project](https://github.com/miguelrizzog96/Appointment_NoShow_classifier)
+#### [Link to Project](https://github.com/miguelrizzog96/Appointment_NoShow_classifier)
 ## Unit conversion app
 - overview
 ![alt text](https://user-images.githubusercontent.com/69512046/99093977-94bc4800-25a9-11eb-84ab-df4a47409014.JPG)
