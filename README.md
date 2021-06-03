@@ -9,7 +9,7 @@
 ## [Link to Project](https://github.com/miguelrizzog96/Queue_Simulation_Python)
 ## Predicting medical appointments no-show
 - ### Overview: 
-![alt text](image.jpg)
+![alt text](https://user-images.githubusercontent.com/69512046/96631476-60c07080-12e4-11eb-96e3-ffea04b2769b.jpg)
 ## [Link to Project](https://github.com/miguelrizzog96/Appointment_NoShow_classifier)
 ## Unit conversion app
 - ### Overview : Developed an app using python, that requests data from google and outputs a conversion equivalent given the user's input. Works, with physical units, currency and cryptocurrency.
