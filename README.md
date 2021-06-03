@@ -1,4 +1,4 @@
-# Projects
+# My Projects
 ## Predictive Modeling of car's fuel economy
 - ### Overview: Developed a statistically significant regression model that predicts a car's fuel economy (in mpg) given a car's weight, with a MAE of 3.3 miles per gallon.
 ![alt text](https://github.com/miguelrizzog96/Regression_Predictive_Model/blob/main/regression.png)
